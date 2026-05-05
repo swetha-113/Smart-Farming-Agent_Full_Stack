@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 Autonomous Smart Farming Agent
 
 An AI-powered smart farming web application that helps farmers detect leaf diseases, check weather reports, analyze soil data, and get real-time farming recommendations.
@@ -113,3 +114,7 @@ The disease prediction endpoint is structured to accept a CNN model. To integrat
 
 ## 📄 License
 MIT
+=======
+# Smart-Farming-Agent_Full_Stack
+Developed a full-stack smart farming application using AI to detect crop diseases and predict risks. Utilized CNN, time-series models, Node.js backend, MongoDB database, and an interactive frontend to deliver real-time agricultural recommendations.
+>>>>>>> bdc6960c547d545ee471a0b61c833176b0b8ec96
