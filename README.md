@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌿 Autonomous Smart Farming Agent
 
 An AI-powered smart farming web application that helps farmers detect leaf diseases, check weather reports, analyze soil data, and get real-time farming recommendations.
